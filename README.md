@@ -15,38 +15,6 @@ I enjoy building reliable software systems and exploring how performance, securi
 
 ---
 
-## Experience
-**Backend Engineer Intern – Bitlab Digital (Jan 2025 – May 2025)**  
-- Developed and maintained backend APIs, improving performance and reliability.  
-- Designed and managed a relational database with **50K+ records**.  
-- Implemented secure authentication and data validation, strengthening system integrity.  
-- Collaborated with a cross-functional team of 10+, accelerating project delivery.  
-
----
-
-## Featured Projects
-**[Satellite-Ground Control Real-Time System](#)**  
-Rust-based simulation of satellite-to-ground communication, applying **multithreading, inter-process communication, and system safety** concepts.  
-
-**[RHEL Email and Web Server](#)**  
-Configured **DNS, DHCP, Apache, Postfix, and Dovecot** in a Linux environment, secured with **firewall rules and SSL/TLS**.  
-
-**[Project Management System (Java Swing)](#)**  
-Java desktop application to manage student and lecturer records, built with **OOP principles** for scalability and easy maintenance.  
-
-**[Mini Projects Collection](#)**  
-- Grocery Management System (Python, CLI)  
-- Student Schedule Planner (C)  
-
----
-
-## Education
-**BSc (Hons) Computer Science**  
-Asia Pacific University of Technology and Innovation, Kuala Lumpur  
-(Expected Graduation: 2026, CGPA: 3.5)
-
----
-
 ## Connect
 - 📄 [Resume](#)  
 - 🔗 [LinkedIn](https://linkedin.com/in/usmank-x)  
