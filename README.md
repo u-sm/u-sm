@@ -1,6 +1,6 @@
 
 ## About Me
-I’m a Computer Science student at **Asia Pacific University (APU)** experienced in Software Development**.  
+I’m a Computer Science student experienced in Software Development**.  
 Passionate about backend development, Linux systems, and cybersecurity.  
 I enjoy building reliable software systems and exploring how performance, security, and scalability come together in practice.
 
