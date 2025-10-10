@@ -1,8 +1,8 @@
 
 ## About Me
-I’m a Computer Science student experienced in Software Development**.  
-Passionate about backend development, Linux systems, and cybersecurity.  
-I enjoy building reliable software systems and exploring how performance, security, and scalability come together in practice.
+I’m a Computer Science student experienced in Software Development.  
+Passionate about backend development, Linux systems, cybersecurity and AI systems.  
+I enjoy solving problems and exploring how performance, security, and scalability come together in practice.
 
 ---
 
