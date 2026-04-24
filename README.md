@@ -43,7 +43,7 @@ Skills
 ![Spring](https://img.shields.io/badge/-Gemini-000?&logo=googlegemini&logoColor=8E75B2)
 ![TensorFlow](https://img.shields.io/badge/-Claude-000?&logo=claude&logoColor=D97757)
 
-<br><br>
+<br>
 
 <div align="center"> 
 <a href="https://github.com/u-sm">
@@ -53,7 +53,7 @@ Skills
 <a href="https://github.com/u-sm">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=compact&langs_count=6&card_width=320&theme=apprentice" />
 </a>
-</div> <br><br><br>
+</div> <br><br>
 
 
 <h2 align="center">
