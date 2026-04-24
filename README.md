@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)
