@@ -1,3 +1,11 @@
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://u-sm.github.io/">Usman</a></b>
+        </samp>
+</h3>
+<br>
+
 
 ## About Me
 I’m a Computer Science student experienced in Software Development.  
@@ -20,10 +28,4 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 - 🔗 [LinkedIn](https://linkedin.com/in/usmank-x)  
 
 
-<!-- Title -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://u-sm.github.io/">Usman</a></b>
-        </samp>
-</h3>
-<br>
+
