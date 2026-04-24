@@ -10,7 +10,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
 </div>
 
-<![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice)>
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice)
 
 ## About Me
 I’m a Computer Science student experienced in Software Development.  
