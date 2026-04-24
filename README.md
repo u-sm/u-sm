@@ -37,6 +37,6 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/u-sm">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=compact&langs_count=8&card_width=320&theme=apprentice" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=donut&card_width=320&theme=apprentice" />
 </a>
 </div>
