@@ -23,7 +23,7 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a>Usman</a></b>
+                <b><a target="_blank">Usman</a></b>
         </samp>
 </h3>
 <br>
