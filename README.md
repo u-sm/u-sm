@@ -8,10 +8,8 @@
                 <b><a target="_blank" href="https://u-sm.github.io/">Usman</a></b>
         </samp>
 </h3>
-<br>
+<br> <br>
 
-
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice)
 
 ## About Me
 I’m a Computer Science student experienced in Software Development.  
@@ -34,4 +32,4 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 - 🔗 [LinkedIn](https://linkedin.com/in/usmank-x)  
 
 
-
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice)
