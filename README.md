@@ -31,6 +31,7 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 - 📄 [Resume](#)  
 - 🔗 [LinkedIn](https://linkedin.com/in/usmank-x)  
 
+<div align="center"> 
 <a href="https://github.com/u-sm">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice" />
 </a>
@@ -38,3 +39,4 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 <a href="https://github.com/u-sm">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=compact&langs_count=8&card_width=320&theme=apprentice" />
 </a>
+</div>
