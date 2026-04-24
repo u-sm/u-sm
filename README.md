@@ -31,11 +31,18 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 - 📄 [Resume](#)  
 - 🔗 [LinkedIn](https://linkedin.com/in/usmank-x)  
 
-<a href="https://github.com/u-sm" style="margin-right: 10px;">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice" />
-</a>
-<a href="https://github.com/u-sm">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=compact&langs_count=8&card_width=320&theme=apprentice" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/u-sm">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://github.com/u-sm">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=compact&langs_count=8&card_width=320&theme=apprentice" />
+      </a>
+    </td>
+  </tr>
+</table>
