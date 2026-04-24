@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 </div>
 
-<h1 align="center">Hey there! I'm <a href="https://u-sm.github.io/">Usman</a></h1>
+<h1 align="center">Hey there! I'm <a href="https://github.com/u-sm/">Usman</a></h1>
 
 <p align="center">CS graduate and software developer passionate about Linux, open source, and AI. Interested in solving problems and understanding how performance, security, and scalability come together in practice.</p>
 
