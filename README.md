@@ -1,3 +1,7 @@
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
+</div>
+
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -6,9 +10,6 @@
 </h3>
 <br>
 
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
-</div>
 
 ![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice)
 
