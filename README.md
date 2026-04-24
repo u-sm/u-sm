@@ -33,7 +33,7 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 
 <div align="center"> 
 <a href="https://github.com/u-sm">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice&hide=stars,prs,issues" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice&hide=stars,prs,issues&rank_icon=github" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/u-sm">
