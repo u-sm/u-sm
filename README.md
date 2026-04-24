@@ -31,7 +31,7 @@ I enjoy solving problems and exploring how performance, security, and scalabilit
 - 📄 [Resume](#)  
 - 🔗 [LinkedIn](https://linkedin.com/in/usmank-x)  
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 50px;">
   <a href="https://github.com/u-sm">
     <img height="200"
          src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice" />
