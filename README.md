@@ -34,11 +34,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=u-sm&show_icons=true&theme=apprentice&hide=stars,prs,issues&rank_icon=github" />
   &nbsp;&nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=u-sm&layout=compact&langs_count=6&card_width=280&theme=apprentice" />
-</div>
+</div> -->
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 ---
 
